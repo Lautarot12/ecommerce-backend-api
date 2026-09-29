@@ -1,8 +1,8 @@
-# Ecommerce Backend API
+# E-commerce Backend API
 
-This project is a backend API for an ecommerce application built with Node.js, Express and MongoDB.
+A REST API built with Node.js, Express and MongoDB for managing products and shopping carts.
 
-It allows managing products and shopping carts through RESTful API endpoints.
+The project implements a backend architecture with MongoDB and Mongoose, including CRUD operations, authentication, cart management and API development using REST principles.
 
 ---
 
@@ -42,7 +42,8 @@ POST /api/carts
 
 Clone the repository
 
-git clone https://github.com/Lautarot12/ecommerce-backend
+git clone https://github.com/Lautarot12/ecommerce-backend-api
+cd ecommerce-backend-api
 
 
 Install dependencies

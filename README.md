@@ -1,8 +1,8 @@
-# Authentication System with JWT and GitHub OAuth
+# E-commerce Backend API
 
-A backend authentication and authorization system built with Node.js, Express and MongoDB.
+A REST API built with Node.js, Express and MongoDB for managing products and shopping carts.
 
-The project implements local authentication, GitHub OAuth 2.0, JWT-based authorization, secure HTTP-only cookies, protected routes and role-based access control.
+The project implements a backend architecture with MongoDB and Mongoose, including CRUD operations, authentication, cart management and API development using REST principles.
 
 ---
 
